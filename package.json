@@ -1,0 +1,23 @@
+{
+  "name": "assignment",
+  "version": "1.0.0",
+  "description": "Problem Statement:\r Create two API’s which can perform the specified CRUD operations.The project structure should\r have models, middlewares, controllers and services. Write MongoDB queries to fetch, update,\r add or delete data from the specified collections. You can assume that the collections already\r exist in the database and just define the project structure.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heena0024/jaiKiasan.git"
+  },
+  "author": "heena",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/heena0024/jaiKiasan/issues"
+  },
+  "homepage": "https://github.com/heena0024/jaiKiasan#readme",
+  "dependencies": {
+    "jsonwebtoken": "^8.5.1",
+    "uuid": "^8.3.2"
+  }
+}
